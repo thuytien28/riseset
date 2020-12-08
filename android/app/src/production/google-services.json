@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "560443051768",
+    "firebase_url": "https://risesetjournalapp.firebaseio.com",
+    "project_id": "risesetjournalapp",
+    "storage_bucket": "risesetjournalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560443051768:android:e52d20db0990fed885750d",
+        "android_client_info": {
+          "package_name": "com.risesetjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560443051768-5b6lf59ka0ai0hh9pojn6cu1eia1omsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.risesetjournal",
+            "certificate_hash": "e00c9eaf024a7091397d9839ae312756a8cecc3b"
+          }
+        },
+        {
+          "client_id": "560443051768-kul0pgtoeql3i2nqvgt2hqc7eu4n99u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YeDgeMDxM5R-weVMQspvYf97w5OXq8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560443051768-kul0pgtoeql3i2nqvgt2hqc7eu4n99u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560443051768-66clr64lf69tu1pjhkh2ivpfnscqgj8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.mimas.risesetjournal",
+                "app_store_id": "1485358490"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

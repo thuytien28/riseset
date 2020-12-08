@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342925240845-udtmmpcr8mer11i6mpdqg0nji3a3vj5v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342925240845-udtmmpcr8mer11i6mpdqg0nji3a3vj5v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>342925240845-gfs33dv7ijdrgevo71h9ahverjci4cod.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByxIxMQx3M_6m9fd8oFtMYxTM8GUUBp64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342925240845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.mimas.riseset.dev</string>
+	<key>PROJECT_ID</key>
+	<string>riseset-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>riseset-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342925240845:ios:3ad573ff89be20cbcb8344</string>
+	<key>DATABASE_URL</key>
+	<string>https://riseset-dev.firebaseio.com</string>
+</dict>
+</plist>

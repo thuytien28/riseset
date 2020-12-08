@@ -1,0 +1,51 @@
+{
+    "date": {
+        "formats": {
+            "default": "%d/%m/%Y",
+            "short": "%d Thg %B",
+            "long": "%d Tháng %B Năm %Y"
+        },
+
+        "day_names": [
+            "Chủ Nhật",
+            "Thứ Hai",
+            "Thứ Ba",
+            "Thứ Tư",
+            "Thứ Năm",
+            "Thứ Sáu",
+            "Thứ Bảy"
+        ],
+        "abbr_day_names": ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+        "month_names": [
+            null,
+            "Tháng 1",
+            "Tháng 2",
+            "Tháng 3",
+            "Tháng 4",
+            "Tháng 5",
+            "Tháng 6",
+            "Tháng 7",
+            "Tháng 8",
+            "Tháng 9",
+            "Tháng 10",
+            "Tháng 11",
+            "Tháng 12"
+        ],
+        "abbr_month_names": [
+            null,
+            "Thg 1",
+            "Thg 2",
+            "Thg 3",
+            "Thg 4",
+            "Thg 5",
+            "Thg 6",
+            "Thg 7",
+            "Thg 8",
+            "Thg 9",
+            "Thg 10",
+            "Thg 11",
+            "Thg 12"
+        ],
+        "meridian": ["sa", "ch"]
+    }
+}

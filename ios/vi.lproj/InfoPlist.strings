@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  RisesetJournal
+
+  Created by Tran Thien on 12/12/19.
+  Copyright © 2019 Facebook. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "Ứng dụng truy cập máy ảnh của bạn để tạo nhật ký và tải lên, cập nhật ảnh đại diện của bạn.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Ứng dụng cần truy cập vị trí của bạn để tính toán thời điểm hoàng hôn và bình minh và xác định vị trí bức ảnh mà bạn đã chụp.";
+"NSLocationAlwaysUsageDescription" = "Ứng dụng cần truy cập vị trí của bạn để tính toán thời điểm hoàng hôn và bình minh và xác định vị trí bức ảnh mà bạn đã chụp.";
+"NSLocationWhenInUseUsageDescription" = "Ứng dụng cần truy cập vị trí của bạn để tính toán thời điểm hoàng hôn và bình minh và xác định vị trí bức ảnh mà bạn đã chụp.";
+"NSPhotoLibraryUsageDescription" = "Điều này giúp bạn có thể chia sẻ ảnh từ thư viện của bạn cũng như lưu trữ ảnh mà bạn tải xuống.";
+"NSPhotoLibraryAddUsageDescription" = "Điều này giúp bạn có thể chia sẻ ảnh từ thư viện của bạn cũng như lưu trữ ảnh mà bạn tải xuống.";

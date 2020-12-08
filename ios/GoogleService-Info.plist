@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>560443051768-66clr64lf69tu1pjhkh2ivpfnscqgj8q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.560443051768-66clr64lf69tu1pjhkh2ivpfnscqgj8q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>560443051768-5b6lf59ka0ai0hh9pojn6cu1eia1omsu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFEuy1IUhJ9dlzw3h9r9c9r2C-dvS6PHw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>560443051768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.mimas.risesetjournal</string>
+	<key>PROJECT_ID</key>
+	<string>risesetjournalapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>risesetjournalapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:560443051768:ios:6016dd55285c125a85750d</string>
+	<key>DATABASE_URL</key>
+	<string>https://risesetjournalapp.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,114 @@
+{
+    "des": {
+        "top": "Taking beautiful photos of sunrises and sunsets is surprisingly easy—even with a mobile camera.",
+        "bottom": "It is the light and location, not the equipment, which makes a good sunrise or sunset picture. And with today's smartphones, you don't even need an advanced camera to capture a beautiful sky."
+    },
+    "en" : [
+        {
+            "id": "1",
+            "title": "Plan Your Pictures",
+            "des": "Whether you have a smartphone or a more advanced camera, planning is the key to a successful shot.",
+            "detail": [
+                "Find the sunrise and sunset times. If you use a compass to angle your camera, make sure to take into account magnetic declination.",
+                "The golden hour, when the Sun is close to the horizon, makes the light magical.",
+                "The blue hour is a darker stage of twilight where blue light dominates.",
+                "Check the weather! Clouds that catch the sunlight can add a beautiful touch to the sky. Early morning mist and fog can add interest to landscapes.",
+                "Meet up at least a half an hour before you plan to start shooting.",
+                "Scout your location. Lakes, the ocean, windows, and buildings reflect light and add extra oomph to your picture.",
+                "Find the Sun and its exact location in the sky."
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Composing Your Image",
+            "des": "",
+            "detail": [
+                "Take your time. Make sure you have plenty of time at the location and take test shots to decide the composition of your photo.",
+                "Rule of thirds. By placing your subject off-center, either a third or two-thirds into the image, it can help your image be more dynamic.",
+                "Straighten your camera. Crooked horizons wreck a good shot.",
+                "Add a foreground. Trees, people, or buildings silhouetted against the colorful sky can add depth to your photo. This is a common trick used by professional photographers."
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Using a Smartphone or Compact Camera",
+            "des": "Smartphones and small compact cameras have a wide lens and a small sensor, so the Sun will look quite small in your images. However, you can play to the strengths of your mobile phone by catching the light.",
+            "detail": [
+                "Find interesting scenery. Compose your image by including trees, buildings, or reflections.",
+                "Turn off the flash. The flash will disturb the natural light.",
+                "Move the lens. Let the Sun hit the edge of the lens to create lens flare.",
+                "Turn around. Sometimes the best picture is behind you.",
+                "Not happy with the result? Play around and try again."
+            ]
+        },
+        {
+            "id": "4",
+            "title": "DSLR Cameras",
+            "des": "A good digital single-lens reflex camera (DSLR) can give more control over the image components.",
+            "detail": [
+                "Use the big lens. A focal length equivalent of 200 mm or more helps the Sun look large in the image.",
+                "Stabilize. Put your camera on a tripod or another stable surface like a fence or the ground. Use your timer, a shutter with a cord, or a remote to minimize camera movement.",
+                "Keep adjusting the aperture. As the Sun rises, it gets brighter, and you need a smaller aperture. As the Sun goes down, it gets darker, and a wider aperture is needed.",
+                "Manual exposure. Expose for the Sun and sky, and set the focus on your subject. Underexposure results in richer colors.",
+                "Flash highlights. A flash can be used to light up your subject, set the exposure for the Sun and sky.",
+                "High resolution. To capture as much information and detail as possible, set your camera to the highest resolution (jpeg) or take uncompressed images (tiff or raw).",
+                "Keep shooting! Play around with different exposures and focus on various subjects. The light changes continuously.",
+                "Edit your images. You can also crop, add contrast, tweak colors, layer, and so much more, by processing your images using photo processing software.",
+            ]
+        }
+    ],
+    "vi": [
+        {
+            "id": "1",
+            "title": "Plan Your Pictures",
+            "des": "Whether you have a smartphone or a more advanced camera, planning is the key to a successful shot.",
+            "detail": [
+                "Find the sunrise and sunset times. If you use a compass to angle your camera, make sure to take into account magnetic declination.",
+                "The golden hour, when the Sun is close to the horizon, makes the light magical.",
+                "The blue hour is a darker stage of twilight where blue light dominates.",
+                "Check the weather! Clouds that catch the sunlight can add a beautiful touch to the sky. Early morning mist and fog can add interest to landscapes.",
+                "Meet up at least a half an hour before you plan to start shooting.",
+                "Scout your location. Lakes, the ocean, windows, and buildings reflect light and add extra oomph to your picture.",
+                "Find the Sun and its exact location in the sky."
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Composing Your Image",
+            "des": "",
+            "detail": [
+                "Take your time. Make sure you have plenty of time at the location and take test shots to decide the composition of your photo.",
+                "Rule of thirds. By placing your subject off-center, either a third or two-thirds into the image, it can help your image be more dynamic.",
+                "Straighten your camera. Crooked horizons wreck a good shot.",
+                "Add a foreground. Trees, people, or buildings silhouetted against the colorful sky can add depth to your photo. This is a common trick used by professional photographers."
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Using a Smartphone or Compact Camera",
+            "des": "Smartphones and small compact cameras have a wide lens and a small sensor, so the Sun will look quite small in your images. However, you can play to the strengths of your mobile phone by catching the light.",
+            "detail": [
+                "Find interesting scenery. Compose your image by including trees, buildings, or reflections.",
+                "Turn off the flash. The flash will disturb the natural light.",
+                "Move the lens. Let the Sun hit the edge of the lens to create lens flare.",
+                "Turn around. Sometimes the best picture is behind you.",
+                "Not happy with the result? Play around and try again."
+            ]
+        },
+        {
+            "id": "4",
+            "title": "DSLR Cameras",
+            "des": "A good digital single-lens reflex camera (DSLR) can give more control over the image components.",
+            "detail": [
+                "Use the big lens. A focal length equivalent of 200 mm or more helps the Sun look large in the image.",
+                "Stabilize. Put your camera on a tripod or another stable surface like a fence or the ground. Use your timer, a shutter with a cord, or a remote to minimize camera movement.",
+                "Keep adjusting the aperture. As the Sun rises, it gets brighter, and you need a smaller aperture. As the Sun goes down, it gets darker, and a wider aperture is needed.",
+                "Manual exposure. Expose for the Sun and sky, and set the focus on your subject. Underexposure results in richer colors.",
+                "Flash highlights. A flash can be used to light up your subject, set the exposure for the Sun and sky.",
+                "High resolution. To capture as much information and detail as possible, set your camera to the highest resolution (jpeg) or take uncompressed images (tiff or raw).",
+                "Keep shooting! Play around with different exposures and focus on various subjects. The light changes continuously.",
+                "Edit your images. You can also crop, add contrast, tweak colors, layer, and so much more, by processing your images using photo processing software.",
+            ]
+        }
+    ]
+}

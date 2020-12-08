@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "342925240845",
+    "firebase_url": "https://riseset-dev.firebaseio.com",
+    "project_id": "riseset-dev",
+    "storage_bucket": "riseset-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342925240845:android:2a6b40eb4ae68b04cb8344",
+        "android_client_info": {
+          "package_name": "com.risesetjournal.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342925240845-pekf9rsn5a4hum4mi4u7ajhkp1321qh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.risesetjournal.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALeCF4h1RrHGk6OZ8J-DFkqEjbAPwHouE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342925240845-rtp1eqo1tpujhrkqamar2j4a1hfahqk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342925240845-udtmmpcr8mer11i6mpdqg0nji3a3vj5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.mimas.riseset.dev",
+                "app_store_id": "1484610768"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

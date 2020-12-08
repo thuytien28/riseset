@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  RisesetJournal
+
+  Created by Tran Thien on 12/12/19.
+  Copyright © 2019 Facebook. All rights reserved.
+*/
+"NSCameraUsageDescription" = "This will let you take photos to create your story or update profile picture.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Riseset Journal needs your location to calculate sunrise, sunset time and determine the location of the photos.";
+"NSLocationAlwaysUsageDescription" = "Riseset Journal needs your location to calculate sunrise, sunset time and determine the location of the photos.";
+"NSLocationWhenInUseUsageDescription" = "Riseset Journal needs your location to calculate sunrise, sunset time and determine the location of the photos.";
+"NSPhotoLibraryUsageDescription" = "This lets you share photos from your library and save photos to your camera roll.";
+"NSPhotoLibraryAddUsageDescription" = "This lets you share photos from your library and save photos to your camera roll.";
